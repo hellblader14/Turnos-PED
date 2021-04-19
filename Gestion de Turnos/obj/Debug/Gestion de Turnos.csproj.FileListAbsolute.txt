@@ -1,0 +1,22 @@
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\bin\Debug\Gestion de Turnos.exe.config
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\bin\Debug\Gestion de Turnos.exe
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\bin\Debug\Gestion de Turnos.pdb
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\bin\Debug\Interop.WMPLib.dll
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion de Turnos.csprojAssemblyReference.cache
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Interop.WMPLib.dll
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion de Turnos.csproj.ResolveComReference.cache
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.Clientes.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.Form1.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.Gestion.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.numDesk.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.pantallaTurnos.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.Properties.Resources.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.sesion.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.tickets.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion_de_Turnos.usuarios.resources
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion de Turnos.csproj.GenerateResource.cache
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion de Turnos.csproj.CoreCompileInputs.cache
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion de Turnos.exe
+C:\Users\sm_mc\Source\Repos\Turnos-PED\Gestion de Turnos\obj\Debug\Gestion de Turnos.pdb
